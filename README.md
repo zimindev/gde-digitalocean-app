@@ -153,7 +153,3 @@ You should see your app with a 🔒 secure lock icon.
 * Docs: [https://docs.digitalocean.com/products/app-platform/](https://docs.digitalocean.com/products/app-platform/)
 * Custom domains guide: [https://docs.digitalocean.com/products/app-platform/how-to/manage-domains/](https://docs.digitalocean.com/products/app-platform/how-to/manage-domains/)
 * Pricing: [https://www.digitalocean.com/pricing/app-platform](https://www.digitalocean.com/pricing/app-platform)
-
----
-
-✅ That’s it! You’re now ready to deploy apps from GitHub to DigitalOcean App Platform and run them on your own domain with HTTPS in minutes. 🚀
